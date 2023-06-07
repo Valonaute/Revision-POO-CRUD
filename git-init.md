@@ -8,6 +8,6 @@ Mettre en ligne un repo :
 5. git remote add origin https://github.com/Valonaute/Revision-POO-CRUD.git
 5. git push -u origin main
 
-> cloner un repo : 
+cloner un repo : 
 
-0. git clone <URL du repo> 
+0. git clone URL du repo 
